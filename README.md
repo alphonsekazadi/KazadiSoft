@@ -29,7 +29,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Demo
 
-[Demo](kazadisoft.vercel.app).
+[Demo](https://kazadisoft.vercel.app).
 
 ---
 
