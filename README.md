@@ -27,9 +27,9 @@ We welcome contributions from the community to improve and enhance the KazadiSof
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Demo
 
-For any questions or inquiries regarding the KazadiSoft website, please contact us at [contact@kazadisoft.com](mailto:contact@kazadisoft.com).
+[Demo](kazadisoft.vercel.app).
 
 ---
 
