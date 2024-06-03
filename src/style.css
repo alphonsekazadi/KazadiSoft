@@ -32,7 +32,7 @@ body{
     grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
 }
 .first .right .line1 h1{
-    font-size: 50px;
+    font-size: 30px;
     color: rgb(51, 102, 102);
 }
 .first .right .line2 ul li{
