@@ -38,7 +38,7 @@ body{
 .first .right .line2 ul li{
     display: inline-block;
     list-style-type: none;
-    padding: 5px;
+    padding: 10px;
     font-size: 18px;
     margin: 5px;
 }
